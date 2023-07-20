@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<--
 
 **gokulakishorereddypuli/gokulakishorereddypuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gokulakishorereddypuli)
 
 
-![counter](https://[YourEndpoint].m.pipedream.net)
+![counter](https://[YourEndpoint].m.pipedream.net) -->
 
 # <Your Name>'s Awesome Profile
 
@@ -64,7 +64,7 @@ Apart from coding, I also enjoy writing about <Your Blog Topics>. You can check 
 I love connecting with like-minded individuals and engaging in meaningful conversations. Feel free to reach out to me via:
 
 - Email: [youremail@example.com]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/puli-gokula-kishore-reddy/)
 - Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
 
 ## 🌐 My Portfolio
