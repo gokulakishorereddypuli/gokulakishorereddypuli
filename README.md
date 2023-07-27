@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 Hey there! 👋 Welcome to my awesome profile! I'm thrilled to have you here. Let me introduce myself:
 
 ## About Me
-
-I am <Your Name>, a passionate <Your Profession/Interest> from <Your Location>. I love <Your Hobbies/Interests> and always eager to learn new things.
+Seeking a challenging role in software development as a fresher, where I can apply my strong technical skills, creativity, and passion for coding to contribute to innovative solutions and learn from experienced professionals in a collaborative environment.
 
 ## 🔭 What I'm Working On
 
