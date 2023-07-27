@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 # PULI GOKULA KISHORE REDDY
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
+-PULI GOKULA KISHORE REDDY
 @@ text in purple (and bold)@@
 ```
 <span style="color: green"> Some green text </span>
