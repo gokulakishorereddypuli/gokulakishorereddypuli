@@ -34,6 +34,9 @@ Seeking a challenging role in software development as a fresher, where I can app
 
 Currently, I'm working on <Briefly describe your ongoing projects or focus areas>. I'm super excited about these projects and can't wait to share more details with you!
 
+##💻 Projects
+
+
 ## 🌱 What I'm Learning
 
 I'm constantly expanding my knowledge and honing my skills. Some of the technologies I'm currently learning and working with include:
