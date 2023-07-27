@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![counter](https://[YourEndpoint].m.pipedream.net) --->
 
 # PULI GOKULA KISHORE REDDY
+- ![#f03c15] PULI GOKULA KISHORE REDDY `#f03c15`
 <h align="center" style="color:orange"><center>PULI GOKULA KISHORE REDDY</center><h>
 
 <p align="center">
