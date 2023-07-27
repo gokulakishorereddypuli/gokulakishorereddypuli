@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 ![counter](https://[YourEndpoint].m.pipedream.net) --->
 
 # PULI GOKULA KISHORE REDDY
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `PULI GOKULA KISHORE REDDY`
 
-  ```diff
+```diff
 - text in red
 + text in green
 ! text in orange
