@@ -193,7 +193,8 @@ Feel free to customize the above template with your own information, achievement
 [![Easyinternships.in](https://github-readme-stats.vercel.app/api/pin/?username=gokulakishorereddypuli&repo=easyinternships.in&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/alsiam/web-projects](https://github.com/gokulakishorereddypuli/easyinternships.in))
 [![Test Master Application](https://github-readme-stats.vercel.app/api/pin/?username=gokulakishorereddypuli&repo=TestMaster-&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/gokulakishorereddypuli/al-folio](https://github.com/gokulakishorereddypuli/TestMaster-))
 [![Air Quality Index](https://github-readme-stats.vercel.app/api/pin/?username=gokulakishorereddypuli&repo=AirQualityIndex&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gokulakishorereddypuli/AirQualityIndex)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=gokulakishorereddypuli&repo=Major-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gokulakishorereddypuli/Major-Project)
+[![Air Quality Index](https://github-readme-stats.vercel.app/api/pin/?username=gokulakishorereddypuli&repo=Major-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gokulakishorereddypuli/Major-Project)
+
 
 <p align="left">
   <a href="https://github.com/gokulakishorereddypuli?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
