@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 # PULI GOKULA KISHORE REDDY
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `PULI GOKULA KISHORE REDDY`
 
-  ```html
-   <h align="center" style="color:orange"><center>PULI GOKULA KISHORE REDDY</center><h>
-```
+  
 
 
 <p align="center">
