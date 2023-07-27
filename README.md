@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![counter](https://[YourEndpoint].m.pipedream.net) --->
 
 # PULI GOKULA KISHORE REDDY
-<h align="center">PULI GOKULA KISHORE REDDY<h>
+<h align="center"><center>PULI GOKULA KISHORE REDDY</center><h>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D4D03AQHgurzwm1xmzw/profile-displayphoto-shrink_200_200/0/1678291616931?e=1695859200&v=beta&t=JSaKTb72RDKXqyJaqQd2hr3N_hC8Xg8pmoE2z2TgMsw" width="200" height="200" alt="Profile Picture" style="border:50">
