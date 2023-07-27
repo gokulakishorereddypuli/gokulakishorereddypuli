@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <img src="https://media.licdn.com/dms/image/D4D03AQHgurzwm1xmzw/profile-displayphoto-shrink_200_200/0/1678291616931?e=1695859200&v=beta&t=JSaKTb72RDKXqyJaqQd2hr3N_hC8Xg8pmoE2z2TgMsw" width="200" height="200" alt="Profile Picture" style="border:50">
 </p>
 
+<!--
 Hey there! 👋 Welcome to my awesome profile! I'm thrilled to have you here. Let me introduce myself:
 
 ## About Me
@@ -83,15 +84,15 @@ Thanks again for stopping by! I hope you enjoyed your visit to my profile. Don't
 
 Feel free to customize the above template with your own information, achievements, and creative flair! Remember to add links to your actual portfolio, blog, and social media profiles. Additionally, consider adding images, GIFs, or other media elements to make your profile even more visually appealing and captivating. Have fun showcasing your awesomeness! 🎉
 
+-->
 
 
 
-<!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to Puli Gokula Kishore Reddy World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
+
 
 <!--
 <p align="center">
