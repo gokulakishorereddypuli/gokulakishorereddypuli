@@ -22,8 +22,14 @@ Here are some ideas to get you started:
 # PULI GOKULA KISHORE REDDY
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `PULI GOKULA KISHORE REDDY`
 
-  
-
+  ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+<span style="color: green"> Some green text </span>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D4D03AQHgurzwm1xmzw/profile-displayphoto-shrink_200_200/0/1678291616931?e=1695859200&v=beta&t=JSaKTb72RDKXqyJaqQd2hr3N_hC8Xg8pmoE2z2TgMsw" width="200" height="200" alt="Profile Picture" style="border:50">
