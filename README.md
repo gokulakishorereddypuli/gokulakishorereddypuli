@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 # <Your Name>'s Awesome Profile
 
 <p align="center">
-  <img src="path/to/your/profile-pic.jpg" width="200" height="200" alt="Profile Picture">
+  <img src="https://media.licdn.com/dms/image/D4D03AQHgurzwm1xmzw/profile-displayphoto-shrink_200_200/0/1678291616931?e=1695859200&v=beta&t=JSaKTb72RDKXqyJaqQd2hr3N_hC8Xg8pmoE2z2TgMsw" width="200" height="200" alt="Profile Picture">
 </p>
 
 Hey there! 👋 Welcome to my awesome profile! I'm thrilled to have you here. Let me introduce myself:
