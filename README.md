@@ -33,7 +33,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://gokulakishorereddypuli.com">Puli Gokula Kishore Reddy</a></b>
+                <b><a target="_blank" href="https://in.linkedin.com/in/puli-gokula-kishore-reddy">Puli Gokula Kishore Reddy</a></b>
         </samp>
 </h3>
 
