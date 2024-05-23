@@ -133,6 +133,7 @@
 <br/>
 
 ## Projects
+[![AI-BASED EXAM PROCTORING SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=gokulakishorereddypuli&repo=AI-BASED-EXAM-PROCTORING-SYSTEM&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/alsiam/web-projects](https://github.com/gokulakishorereddypuli/AI-BASED-EXAM-PROCTORING-SYSTEM))
 [![Easyinternships.in](https://github-readme-stats.vercel.app/api/pin/?username=gokulakishorereddypuli&repo=easyinternships.in&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/alsiam/web-projects](https://github.com/gokulakishorereddypuli/easyinternships.in))
 [![Test Master Application](https://github-readme-stats.vercel.app/api/pin/?username=gokulakishorereddypuli&repo=TestMaster-&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/gokulakishorereddypuli/al-folio](https://github.com/gokulakishorereddypuli/TestMaster-))
 [![Air Quality Index](https://github-readme-stats.vercel.app/api/pin/?username=gokulakishorereddypuli&repo=AirQualityIndex&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gokulakishorereddypuli/AirQualityIndex)
